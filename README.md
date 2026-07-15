@@ -47,7 +47,7 @@ A modern, responsive Kanban board built with **Next.js**, **TypeScript**, and **
 ---
 
 ## 📂 Project Structure
-
+```text
 MY-KANBAN
 app/
 ├── actions/
@@ -85,7 +85,7 @@ public/
 ├── globe.svg
 ├── hero-image.png
 └── ...
-
+```
 
 ---
 
